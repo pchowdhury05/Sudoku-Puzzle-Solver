@@ -1,8 +1,5 @@
 Punna Chowdhury
 November 12, 2024
-CS 131 - Artificial Intelligence
-Professor Fabrizio Santini 
-Assignment 04 - Constraint Satisfaction Problems
 
 Instructions:
 - Please run `sudoku_1.py,` `sudoku_2.py,` and `sudoku_3.py` first to define the easy, medium, and hard sudoku puzzles. 
