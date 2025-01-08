@@ -1,5 +1,5 @@
-# Easy sudoku puzzle
-# NOT provided on Assignment 04, Canvas 
+# easy sudoku puzzle
+# NOT provided on the assignment sheet 
 # I got this from the Sudoku app 
 puzzle_1= [
     [7, 5, 2, 0, 3, 1, 0, 0, 0],
