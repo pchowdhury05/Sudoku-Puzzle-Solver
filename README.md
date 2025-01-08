@@ -2,16 +2,17 @@ Punna Chowdhury
 
 November 12, 2024
 
-Instructions:
+
+**Instructions**:
 - Please run `sudoku_1.py,` `sudoku_2.py,` and `sudoku_3.py` first to define the easy, medium, and hard sudoku puzzles. 
 - Then, run `main.py` to execute the solution to the sudoku problems. 
 - sudoku_2 and sudoku_3 are the puzzles provided on Canvas Assignment 04, representing medium and hard levels, respectively.
   - I incorporated sudoku_1 to add an easy level
 
-Dependencies Used:
+**Dependencies Used**:
 - `copy` is used to display a fresh copy of the unsolved Sudoku puzzle, ensuring that each puzzle starts in its unsolved state. 
 
-Methodology and Assumptions:
+**Methodology and Assumptions**:
 - **Backtracking Algorithm**:
   - Backtracking algorithm is used to solve these Sudoku problems. This algorithm will try every possible solution, step-by-step. 
     - It does so by first choosing a section, checking if the choice fits the solution, moving forward with the next decision if valid, and backtracking if the choice is invalid to try another option.
