@@ -1,5 +1,5 @@
 # hard sudoku puzzle 
-# provided on assignment sheet
+# provided on the assignment sheet
 puzzle_3 = [
     [0, 7, 0, 0, 4, 2, 0, 0, 0],
     [0, 0, 0, 0, 0, 8, 6, 1, 0],
