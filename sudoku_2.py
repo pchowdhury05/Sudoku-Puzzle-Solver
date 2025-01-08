@@ -1,5 +1,5 @@
 # medium sudoku puzzle 
-# provided on assignment sheet
+# provided on the assignment sheet
 puzzle_2 = [
     [6, 0, 8, 7, 0, 2, 1, 0, 0],
     [4, 0, 0, 0, 1, 0, 0, 0, 2],
