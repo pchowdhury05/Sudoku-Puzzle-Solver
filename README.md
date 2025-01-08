@@ -6,7 +6,7 @@ November 12, 2024
 **Instructions**:
 - Please run `sudoku_1.py,` `sudoku_2.py,` and `sudoku_3.py` first to define the easy, medium, and hard sudoku puzzles. 
 - Then, run `main.py` to execute the solution to the sudoku problems. 
-- sudoku_2 and sudoku_3 are the puzzles provided on Canvas Assignment 04, representing medium and hard levels, respectively.
+- sudoku_2 and sudoku_3 are the puzzles provided on the assignment sheet, representing medium and hard levels, respectively.
   - I incorporated sudoku_1 to add an easy level
 
 **Dependencies Used**:
